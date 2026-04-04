@@ -1,3 +1,4 @@
 # orley-s-blackjackgame
-compile using clang or gcc
+Use a Ccompiler such as clang or gcc
+
 
