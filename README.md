@@ -1,4 +1,4 @@
-# orley-s-blackjackgame
+# orleyMowat-blackjackgame
 Use a Ccompiler such as clang or gcc
 For gcc use th command: gcc Orleyblackjackfinal.c -o Orleyblackjackfinal
 Or for clanguse the command: clang Orleyblackjackfinal.c -o Orleyblackjackfinal
