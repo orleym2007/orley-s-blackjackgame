@@ -20,7 +20,7 @@ void createDeck(int deck[])
 //fills deck 1-13 4 times for each suit
 void shuffleDeck(int deck[])
 {
-    // deck shuffler using the 'fishar yates' algorithm
+    // deck shuffler using the 'fishar yates' algorithm CODE USED FROM ONLINE FROM "STACK OVERFLOW" LINES 24-31
     int i, j, temp;
     for (i = DECK_SIZE - 1; i > 0; i--) {
         j = rand() % (i + 1);
