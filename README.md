@@ -1,2 +1,3 @@
 # orley-s-blackjackgame
-compile using clang or gcc on vsstudio
+compile using clang or gcc
+
