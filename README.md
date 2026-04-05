@@ -1,5 +1,5 @@
 # OrleyMowat-blackjackgame
-Use a Ccompiler such as clang or gcc
+Use a C compiler such as clang or gcc
 
 For gcc use the command: gcc Orleyblackjackfinal.c -o Orleyblackjackfinal
 
