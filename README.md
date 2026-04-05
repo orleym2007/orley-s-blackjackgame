@@ -1,7 +1,8 @@
 # OrleyMowat-blackjackgame
 Use a Ccompiler such as clang or gcc
-For gcc use th command: gcc Orleyblackjackfinal.c -o Orleyblackjackfinal
-Or for clanguse the command: clang Orleyblackjackfinal.c -o Orleyblackjackfinal
+
+For gcc use the command: gcc Orleyblackjackfinal.c -o Orleyblackjackfinal
+Or for clang use the command: clang Orleyblackjackfinal.c -o Orleyblackjackfinal
 Then to run it: ./Orleyblackjackfinal
 Controls:
 Press h to hit (draw another card)
